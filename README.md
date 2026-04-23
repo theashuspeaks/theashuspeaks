@@ -1,98 +1,114 @@
-# Hi, I'm Ashutosh Mishra 👋  
+<h1 align="center">Hi 👋, I'm Ashutosh Mishra</h1>
+<h3 align="center">🚀 Founder | Full Stack Developer | Growth Strategist</h3>
 
-🚀 Founder | Full Stack Developer | Growth Strategist  
+<p align="center">
+Building scalable products, brands & digital ecosystems
+</p>
 
 ---
 
-## 👨‍💻 About Me  
+## 🧠 About Me  
+
 - 🎓 B.Tech CSE (2023–2027)  
-- 🧠 Skilled in DSA, System Design & MERN Stack  
-- 🚀 Building startups, not just projects  
-- 📈 Focused on growth, scalability & execution  
+- ⚙️ Built **25+ websites** focused on performance & UX  
+- 📢 Delivered **1000+ creatives** & scaled brands up to **8x growth**  
+- 🤝 Worked with **40+ clients** across industries  
+- 🧩 Strong interest in **system design, scalable products & startups**  
+- 📈 Combining **tech + business + growth strategies**  
+- 🎯 Focused on building **real-world impactful systems**  
 
 ---
 
-## 🏢 What I'm Building  
+## ⚡ Tech Stack  
 
-### ⚡ OG Hub Technologies  
-- 25+ high-performance websites  
-- Focused on UX & scalable systems  
-
-### 📢 OG Hub Media  
-- 1000+ creatives delivered  
-- Generated up to 8x growth  
-- Worked with 40+ clients  
-
-### 🤝 OG Hub (Influencer Marketing)  
-- Brand x Creator collaborations  
-- Growth strategies  
-
-### 📚 NotebookShop.in  
-- 18+ premium programming notes  
-- Digital product ecosystem  
-
----
-
-## 🛠️ Tech Stack  
-
-**Languages:**  
+### 💻 Languages  
 `Java` `JavaScript` `HTML` `CSS`  
 
-**Frameworks:**  
+### ⚙️ Frameworks & Backend  
 `React.js` `Node.js` `Express.js`  
 
-**Database:**  
+### 🗄️ Database  
 `MongoDB`  
 
-**Tools:**  
-`Git` `GitHub` `VS Code` `WordPress` `Shopify`  
+### 🎨 Design & Creative  
+`Tailwind CSS` `Canva` `CapCut` `Framer`  
 
-**Creative:**  
-`Tailwind CSS` `Canva` `CapCut`  
+### 🧰 Tools  
+`Git` `GitHub` `VS Code` `WordPress` `Shopify`  
 
 ---
 
-## 🚀 Projects  
+## 📊 Engineering Metrics  
 
-### 📰 AI Powered Blog App  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=theashuspeaks&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=theashuspeaks&theme=tokyonight" />
+</p>
+
+---
+
+## 🧩 Contribution Graph  
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=theashuspeaks&theme=tokyo-night" />
+</p>
+
+---
+
+## 🚀 Featured Projects  
+
+### 🔹 AI Powered Blog App  
 - MERN + Google Gemini  
 - AI content generation + admin dashboard  
+- Scalable architecture deployed on Vercel  
 
 🔗 https://topnewsabc.vercel.app  
 🔗 https://github.com/theashuspeaks/topnews.git  
 
 ---
 
-### 🏥 Doctor Appointment System  
-- Full MERN stack  
-- Auth, booking, payments & dashboards  
+### 🔹 Doctor Appointment Booking System  
+- Full MERN stack platform  
+- Auth system (Patient / Doctor / Admin)  
+- Booking, payments & dashboards  
 
 🔗 https://topdoctorsabc.vercel.app  
 🔗 https://github.com/theashuspeaks/topdoctors.git  
 
 ---
 
+### 🔹 NotebookShop.in  
+- E-notes platform for B.Tech students  
+- 18+ premium long-form notes  
+- Scalable digital distribution system  
+
+---
+
 ## 🏆 Achievements  
 
-- Finalist @ NEC 2025 (IIT Bombay)  
-- Event Head @ E-Cell JNCT  
-- Managed 500+ students/events  
+- 🏆 Finalist @ NEC 2025 (IIT Bombay)  
+- 🎤 Event Head @ E-Cell JNCT  
+- 👥 Managed 500+ students in events  
+- 🚀 Organized multiple large-scale tech & business events  
 
 ---
 
-## 📫 Connect  
+## 🌐 Connect With Me  
 
-🌐 https://oghub.in  
-💼 https://linkedin.com/in/theashuspeaks  
-🐙 https://github.com/theashuspeaks  
-📧 theashu.in@gmail.com  
+<p align="center">
+  <a href="https://oghub.in">🌐 Portfolio</a> •
+  <a href="https://linkedin.com/in/theashuspeaks">💼 LinkedIn</a> •
+  <a href="https://github.com/theashuspeaks">🐙 GitHub</a> •
+  <a href="mailto:theashu.in@gmail.com">📧 Email</a>
+</p>
 
 ---
 
-## ⚡ Fun  
+## ⚡  
 
 ```js
 while(alive){
   build();
   scale();
+  repeat();
 }
