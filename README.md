@@ -9,12 +9,21 @@ Building scalable products, brands & digital ecosystems
 
 ## 🧠 About Me  
 
-- 🎓 B.Tech CSE (2023–2027)  
-- ⚙️ Built 25+ high-performance websites  
-- 📢 Delivered 1000+ creatives & scaled brands up to 8x growth  
-- 🤝 Worked with 40+ clients  
-- 🧩 Interested in system design, scalable products & startups  
-- 📈 Tech + Business + Growth mindset  
+- 🎓 B.Tech CSE (2023–2027) | CGPA: 7.71  
+- 🚀 Founder of NotebookShop.in (18+ premium notes, 100+ pages each)  
+- 🏢 Founder @ OG Hub (Tech, Media & Influencer Marketing Agency)  
+- 📈 Built & scaled 3 agencies with 40+ clients and 1000+ projects delivered  
+- 🌐 Developed 25+ high-performance websites focused on UX & growth  
+- 📊 Generated up to 8× reach & engagement through content strategies  
+- 🤖 Built AI-powered blog platform (MERN + Google Gemini)  
+- 🏥 Built Doctor Appointment System with payments & dashboards (MERN)  
+- 🧩 Strong in Data Structures, System Design & Full Stack Development  
+- 💻 Tech Stack: Java, JavaScript, React, Node.js, MongoDB  
+- 🛠️ Tools: WordPress, Shopify, Framer, Git, Canva, CapCut  
+- 🎤 Event Head @ E-Cell JNCT — managed 500+ students per event  
+- 📅 Organized 6+ major events (SIH Internal, Business Buzz & more)  
+- 🏆 NEC 2025 Finalist — invited to IIT Bombay  
+- ⚡ Full-time builder with leadership, communication & execution skills  
 
 ---
 
