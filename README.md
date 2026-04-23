@@ -10,47 +10,31 @@ Building scalable products, brands & digital ecosystems
 ## 🧠 About Me  
 
 - 🎓 B.Tech CSE (2023–2027)  
-- ⚙️ Built **25+ websites** focused on performance & UX  
-- 📢 Delivered **1000+ creatives** & scaled brands up to **8x growth**  
-- 🤝 Worked with **40+ clients** across industries  
-- 🧩 Strong interest in **system design, scalable products & startups**  
-- 📈 Combining **tech + business + growth strategies**  
-- 🎯 Focused on building **real-world impactful systems**  
+- ⚙️ Built 25+ high-performance websites  
+- 📢 Delivered 1000+ creatives & scaled brands up to 8x growth  
+- 🤝 Worked with 40+ clients  
+- 🧩 Interested in system design, scalable products & startups  
+- 📈 Tech + Business + Growth mindset  
 
 ---
 
 ## ⚡ Tech Stack  
 
-### 💻 Languages  
-`Java` `JavaScript` `HTML` `CSS`  
-
-### ⚙️ Frameworks & Backend  
-`React.js` `Node.js` `Express.js`  
-
-### 🗄️ Database  
-`MongoDB`  
-
-### 🎨 Design & Creative  
-`Tailwind CSS` `Canva` `CapCut` `Framer`  
-
-### 🧰 Tools  
-`Git` `GitHub` `VS Code` `WordPress` `Shopify`  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,js,nodejs,express,mongodb,react,git,github,linux,html,css,tailwind" />
+</p>
 
 ---
 
 ## 📊 Engineering Metrics  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=theashuspeaks&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=theashuspeaks&theme=tokyonight" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=theashuspeaks&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=theashuspeaks&theme=tokyonight&hide_border=true" />
 </p>
 
----
-
-## 🧩 Contribution Graph  
-
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=theashuspeaks&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=theashuspeaks&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
@@ -60,7 +44,6 @@ Building scalable products, brands & digital ecosystems
 ### 🔹 AI Powered Blog App  
 - MERN + Google Gemini  
 - AI content generation + admin dashboard  
-- Scalable architecture deployed on Vercel  
 
 🔗 https://topnewsabc.vercel.app  
 🔗 https://github.com/theashuspeaks/topnews.git  
@@ -69,8 +52,7 @@ Building scalable products, brands & digital ecosystems
 
 ### 🔹 Doctor Appointment Booking System  
 - Full MERN stack platform  
-- Auth system (Patient / Doctor / Admin)  
-- Booking, payments & dashboards  
+- Auth, booking, payments & dashboards  
 
 🔗 https://topdoctorsabc.vercel.app  
 🔗 https://github.com/theashuspeaks/topdoctors.git  
@@ -79,8 +61,7 @@ Building scalable products, brands & digital ecosystems
 
 ### 🔹 NotebookShop.in  
 - E-notes platform for B.Tech students  
-- 18+ premium long-form notes  
-- Scalable digital distribution system  
+- 18+ premium programming notes  
 
 ---
 
@@ -88,27 +69,28 @@ Building scalable products, brands & digital ecosystems
 
 - 🏆 Finalist @ NEC 2025 (IIT Bombay)  
 - 🎤 Event Head @ E-Cell JNCT  
-- 👥 Managed 500+ students in events  
-- 🚀 Organized multiple large-scale tech & business events  
+- 👥 Managed 500+ students  
 
 ---
 
 ## 🌐 Connect With Me  
 
 <p align="center">
-  <a href="https://oghub.in">🌐 Portfolio</a> •
-  <a href="https://linkedin.com/in/theashuspeaks">💼 LinkedIn</a> •
-  <a href="https://github.com/theashuspeaks">🐙 GitHub</a> •
-  <a href="mailto:theashu.in@gmail.com">📧 Email</a>
+  <a href="mailto:theashu.in@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="50"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/theashuspeaks">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/theashuspeaks">
+    <img src="https://skillicons.dev/icons?i=github" height="50"/>
+  </a>
 </p>
 
 ---
 
-## ⚡  
-
-```js
-while(alive){
-  build();
-  scale();
-  repeat();
-}
+<p align="center">
+  ⚡ <b>Build Systems. Solve Problems. Scale Impact.</b>
+</p>
